@@ -1,0 +1,11 @@
+{
+  "name": "shieldup",
+  "short_name": "ShieldUp",
+  "description": "Cidadania digital: proteção contra golpes e deepfakes para jovens",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [{ "src": "shield.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
